@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="threadpool.c" />
+	<category name="main.c">
+		<category name="Foldings">
+			<property name="Line1" type="integer">9</property>
+			<property name="Line2" type="integer">31</property>
+			<property name="Line3" type="integer">38</property>
+		</category>
+	</category>
+</settings>
